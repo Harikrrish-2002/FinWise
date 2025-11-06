@@ -1,0 +1,17 @@
+MINI PRO/
+├── backend/
+│   ├── app.py              # Main Flask application
+│   ├── requirements.txt    # Python dependencies
+│   ├── config.py          # Configuration settings
+│   └── uploads/           # Receipt upload directory
+├── frontend/
+│   ├── src/
+│   │   ├── components/    # React components
+│   │   ├── context/       # Authentication context
+│   │   └── index.js       # App entry point
+│   ├── package.json       # Node.js dependencies
+│   └── public/           # Static assets
+├── setup.py              # Automated setup script
+├── run_backend.py        # Backend server runner
+├── run_frontend.py       # Frontend server runner
+└── README.md            # Comprehensive documentation
